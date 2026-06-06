@@ -1,4 +1,4 @@
-# Synapse Z Extension
+# Synapse Z VS-Code Extension
 
 Extension for debug Lua/Luau scripts using the Synapse Z API.
 
@@ -7,7 +7,7 @@ Extension for debug Lua/Luau scripts using the Synapse Z API.
 
 # Installing:
 
-Download the latest `.vsix` file from [Releases](), then run in VS Code terminal:
+Download the latest `.vsix` file from [Releases](https://github.com/BuntingFight/synapsez-vscode-ext/releases/download/v1.0/synapsez-ext-1.0.0.vsix), then run in VS Code terminal:
 
 ```bash
 code --install-extension synapsez-ext-1.0.0.vsix
