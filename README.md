@@ -3,7 +3,7 @@
 Extension for debug Lua/Luau scripts using the Synapse Z API.
 
 > **Note:** Requires an active Synapse Z subscription.
-> Account and Roblox settings are managed through the Synapse Z desktop UI — not in the editor.
+> Account and Roblox settings are managed through the Synapse Z desktop UI — not in the IDE.
 
 # Installing:
 
