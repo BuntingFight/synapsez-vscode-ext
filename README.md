@@ -1,0 +1,1 @@
+# synapsez-vscode-ext
